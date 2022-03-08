@@ -1,0 +1,31 @@
+https://images.pexels.com/photos/327540/pexels-photo-327540.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
+```diff
+Welcome to Crypto Game.
+
+This bot allows you to trade cryptocurrency in real-time using fake money.
+
+To start off you are given a balance of $10,000 USD for trading.
+
+*   Making Your First Trade
+    When you are ready to exchange some of your USD balance for a crypto currency, you can type the following command: .Buy <Currency of your Choice> <Qualtity>
+    If you would like to exchange your entire USD balance you can also enter: .Buy <Currency of your Choice> All
+
+*   Making Your First Sale
+*   When you are ready to exchange your currency back to USD you can type the following: .Sell <Currency> <Quantity>
+
+Viewing Reports
+*   You can view an up-to-date report of your portfolio at any time by typing the following: .Report
+*   A report will show you the following information:
+        1.	Current value of your entire portfolio.
+        2.	Current value of each currency you hold.
+        3.	Amount of each currency you currently hold.
+    What should I buy first?
+    While no one can predict the stock market here a few websites to get you started:
+    *   https://www.coindesk.com/ Coin desk is a great place to see up-to-date crypto news.
+    *   https://nomics.com/ Nomics not only provides the crypto data for which this bot operates, but also provides great tools for crypto research. 
+
+Quote
+    "One of the funny things about the stock market is that every time one person buys, another sells, and both think they are astute." - William Feather
+
+Happy Tradeing!```
+
